@@ -63,6 +63,14 @@ Add final screenshots here after deployment.
 - LinkedIn: https://www.linkedin.com/in/kanumilli-poojitha
 - Email: poojithakanumilli@gmail.com
 
+## Demo link
+
+https://drive.google.com/file/d/1LxiZoiW3B7o1K5ApdeMgyFeIk4K62mc6/view?usp=sharing
+
+## Live video
+
+https://drive.google.com/file/d/14dr55yCLsDNTM3L1hYCsKC0qgEGjrI7o/view?usp=sharing
+
 ## Portfolio URL
 
-Replace with your deployed Vercel URL.
+https://personal-portfolio-2-nu.vercel.app/
